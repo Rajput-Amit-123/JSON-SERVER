@@ -1,4 +1,4 @@
-[
+{"Courses" : [
     {
         "course_poster_image": "https://example.com/course-poster-1.png",
         "title": "Introduction to Machine Learning",
@@ -454,3 +454,4 @@
         "link": "https://www.coursera.org/specializations/big-data-analytics"
     }
 ]
+}

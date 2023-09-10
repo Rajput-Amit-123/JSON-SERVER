@@ -1,0 +1,456 @@
+[
+    {
+        "course_poster_image": "https://example.com/course-poster-1.png",
+        "title": "Introduction to Machine Learning",
+        "description": "An introductory course to machine learning concepts and techniques.",
+        "duration": "8 weeks",
+        "enrolled_users": 5000,
+        "rating": 4.2,
+        "keywords": [
+            "machine learning",
+            "data science",
+            "artificial intelligence"
+        ],
+        "course_id": "101",
+        "link": "https://www.coursera.org/courses?query=introduction%20to%20machine%20learning"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-2.png",
+        "title": "Python for Data Analysis",
+        "description": "Learn Python programming for data analysis and data manipulation.",
+        "duration": "6 weeks",
+        "enrolled_users": 8000,
+        "rating": 4.6,
+        "keywords": [
+            "python",
+            "data analysis",
+            "data manipulation"
+        ],
+        "course_id": "102",
+        "link": "https://www.udemy.com/course/python-for-data-analysis/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-3.png",
+        "title": "Web Development Bootcamp",
+        "description": "A comprehensive web development bootcamp covering HTML, CSS, and JavaScript.",
+        "duration": "12 weeks",
+        "enrolled_users": 12000,
+        "rating": 4.8,
+        "keywords": [
+            "web development",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "course_id": "103",
+        "link": "https://www.udacity.com/course/web-development-nanodegree--nd0011"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-4.png",
+        "title": "Data Science Fundamentals",
+        "description": "Fundamental concepts and techniques of data science and analysis.",
+        "duration": "10 weeks",
+        "enrolled_users": 6000,
+        "rating": 4.4,
+        "keywords": [
+            "data science",
+            "data analysis",
+            "statistics"
+        ],
+        "course_id": "104",
+        "link": "https://www.coursera.org/specializations/data-science"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-5.png",
+        "title": "JavaScript for Beginners",
+        "description": "A beginner-friendly JavaScript course for building interactive web pages.",
+        "duration": "6 weeks",
+        "enrolled_users": 10000,
+        "rating": 4.5,
+        "keywords": [
+            "JavaScript",
+            "web development",
+            "programming"
+        ],
+        "course_id": "105",
+        "link": "https://www.udemy.com/course/javascript-for-beginners/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-6.png",
+        "title": "Artificial Intelligence Essentials",
+        "description": "Essential concepts and applications of artificial intelligence.",
+        "duration": "8 weeks",
+        "enrolled_users": 7500,
+        "rating": 4.3,
+        "keywords": [
+            "artificial intelligence",
+            "machine learning",
+            "AI"
+        ],
+        "course_id": "106",
+        "link": "https://www.coursera.org/specializations/artificial-intelligence"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-7.png",
+        "title": "Digital Marketing Mastery",
+        "description": "Master the art of digital marketing and grow your online presence.",
+        "duration": "10 weeks",
+        "enrolled_users": 9000,
+        "rating": 4.7,
+        "keywords": [
+            "digital marketing",
+            "online marketing",
+            "social media"
+        ],
+        "course_id": "107",
+        "link": "https://www.udemy.com/course/digital-marketing-mastery/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-8.png",
+        "title": "Introduction to Data Structures",
+        "description": "Learn the basics of data structures and algorithms in computer science.",
+        "duration": "8 weeks",
+        "enrolled_users": 5500,
+        "rating": 4.0,
+        "keywords": [
+            "data structures",
+            "algorithms",
+            "computer science"
+        ],
+        "course_id": "108",
+        "link": "https://www.coursera.org/courses?query=introduction%20to%20data%20structures"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-9.png",
+        "title": "Mobile App Development with React Native",
+        "description": "Build cross-platform mobile apps with React Native.",
+        "duration": "12 weeks",
+        "enrolled_users": 7000,
+        "rating": 4.6,
+        "keywords": [
+            "React Native",
+            "mobile app development",
+            "cross-platform"
+        ],
+        "course_id": "109",
+        "link": "https://www.udemy.com/course/mobile-app-development-with-react-native/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-10.png",
+        "title": "Machine Learning for Beginners",
+        "description": "An easy-to-follow introduction to machine learning and its applications.",
+        "duration": "8 weeks",
+        "enrolled_users": 8500,
+        "rating": 4.1,
+        "keywords": [
+            "machine learning",
+            "data science",
+            "beginners"
+        ],
+        "course_id": "110",
+        "link": "https://www.coursera.org/courses?query=machine%20learning%20for%20beginners"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-11.png",
+        "title": "Java Programming Fundamentals",
+        "description": "Master the fundamentals of Java programming with hands-on exercises.",
+        "duration": "10 weeks",
+        "enrolled_users": 6000,
+        "rating": 4.2,
+        "keywords": [
+            "Java",
+            "programming",
+            "Java fundamentals"
+        ],
+        "course_id": "111",
+        "link": "https://www.udemy.com/course/java-programming-fundamentals/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-12.png",
+        "title": "Data Visualization with Tableau",
+        "description": "Create stunning data visualizations with Tableau software.",
+        "duration": "6 weeks",
+        "enrolled_users": 9500,
+        "rating": 4.8,
+        "keywords": [
+            "data visualization",
+            "Tableau",
+            "data analysis"
+        ],
+        "course_id": "112",
+        "link": "https://www.coursera.org/specializations/data-visualization"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-13.png",
+        "title": "C++ Programming Masterclass",
+        "description": "Become a C++ programming expert through comprehensive lessons and projects.",
+        "duration": "12 weeks",
+        "enrolled_users": 5500,
+        "rating": 4.4,
+        "keywords": [
+            "C++ programming",
+            "programming",
+            "software development"
+        ],
+        "course_id": "113",
+        "link": "https://www.udemy.com/course/cpp-programming-masterclass/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-14.png",
+        "title": "Deep Learning Foundations",
+        "description": "An in-depth exploration of deep learning and neural networks.",
+        "duration": "8 weeks",
+        "enrolled_users": 7000,
+        "rating": 4.5,
+        "keywords": [
+            "deep learning",
+            "neural networks",
+            "artificial intelligence"
+        ],
+        "course_id": "114",
+        "link": "https://www.coursera.org/specializations/deep-learning"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-15.png",
+        "title": "Frontend Web Development",
+        "description": "Master the frontend technologies like HTML, CSS, and JavaScript for web development.",
+        "duration": "10 weeks",
+        "enrolled_users": 8500,
+        "rating": 4.7,
+        "keywords": [
+            "frontend development",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "course_id": "115",
+        "link": "https://www.udemy.com/course/frontend-web-development/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-16.png",
+        "title": "Applied Statistics for Data Science",
+        "description": "Apply statistical techniques to real-world data science projects.",
+        "duration": "8 weeks",
+        "enrolled_users": 5000,
+        "rating": 4.3,
+        "keywords": [
+            "statistics",
+            "data science",
+            "applied statistics"
+        ],
+        "course_id": "116",
+        "link": "https://www.coursera.org/specializations/applied-statistics"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-17.png",
+        "title": "React.js Advanced Techniques",
+        "description": "Advanced concepts and techniques for building applications with React.js.",
+        "duration": "6 weeks",
+        "enrolled_users": 6000,
+        "rating": 4.6,
+        "keywords": [
+            "React.js",
+            "web development",
+            "advanced techniques"
+        ],
+        "course_id": "117",
+        "link": "https://www.udemy.com/course/reactjs-advanced-techniques/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-18.png",
+        "title": "Introduction to Artificial Intelligence",
+        "description": "An introduction to the world of artificial intelligence and its possibilities.",
+        "duration": "8 weeks",
+        "enrolled_users": 7000,
+        "rating": 4.2,
+        "keywords": [
+            "artificial intelligence",
+            "AI",
+            "introduction"
+        ],
+        "course_id": "118",
+        "link": "https://www.coursera.org/courses?query=introduction%20to%20artificial%20intelligence"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-19.png",
+        "title": "Social Media Marketing Strategy",
+        "description": "Develop effective social media marketing strategies for business growth.",
+        "duration": "10 weeks",
+        "enrolled_users": 5500,
+        "rating": 4.8,
+        "keywords": [
+            "social media marketing",
+            "marketing strategy",
+            "business growth"
+        ],
+        "course_id": "119",
+        "link": "https://www.udemy.com/course/social-media-marketing-strategy/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-20.png",
+        "title": "Advanced Data Structures and Algorithms",
+        "description": "In-depth coverage of advanced data structures and algorithm optimization.",
+        "duration": "12 weeks",
+        "enrolled_users": 8000,
+        "rating": 4.5,
+        "keywords": [
+            "advanced data structures",
+            "algorithms",
+            "optimization"
+        ],
+        "course_id": "120",
+        "link": "https://www.coursera.org/courses?query=advanced%20data%20structures%20and%20algorithms"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-21.png",
+        "title": "Full-Stack Web Development",
+        "description": "Master both frontend and backend development for building complete web applications.",
+        "duration": "16 weeks",
+        "enrolled_users": 10000,
+        "rating": 4.7,
+        "keywords": [
+            "full-stack development",
+            "web development",
+            "frontend",
+            "backend"
+        ],
+        "course_id": "121",
+        "link": "https://www.udemy.com/course/full-stack-web-development/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-22.png",
+        "title": "Data Analysis with Python",
+        "description": "Learn data analysis using Python and popular data analysis libraries.",
+        "duration": "8 weeks",
+        "enrolled_users": 9000,
+        "rating": 4.4,
+        "keywords": [
+            "data analysis",
+            "Python",
+            "data analysis libraries"
+        ],
+        "course_id": "122",
+        "link": "https://www.coursera.org/specializations/data-analysis"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-23.png",
+        "title": "Node.js Fundamentals",
+        "description": "Explore the fundamentals of Node.js for building scalable and efficient applications.",
+        "duration": "10 weeks",
+        "enrolled_users": 6500,
+        "rating": 4.3,
+        "keywords": [
+            "Node.js",
+            "web development",
+            "backend",
+            "server-side programming"
+        ],
+        "course_id": "123",
+        "link": "https://www.udemy.com/course/nodejs-fundamentals/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-24.png",
+        "title": "Machine Learning Applications",
+        "description": "Practical applications of machine learning in real-world scenarios.",
+        "duration": "8 weeks",
+        "enrolled_users": 7500,
+        "rating": 4.6,
+        "keywords": [
+            "machine learning",
+            "data science",
+            "practical applications"
+        ],
+        "course_id": "124",
+        "link": "https://www.coursera.org/specializations/machine-learning-applications"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-25.png",
+        "title": "Advanced JavaScript Programming",
+        "description": "Master advanced JavaScript concepts and techniques for web development.",
+        "duration": "6 weeks",
+        "enrolled_users": 5500,
+        "rating": 4.2,
+        "keywords": [
+            "JavaScript",
+            "web development",
+            "advanced programming"
+        ],
+        "course_id": "125",
+        "link": "https://www.udemy.com/course/advanced-javascript-programming/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-26.png",
+        "title": "Natural Language Processing",
+        "description": "Explore the field of natural language processing and text analysis.",
+        "duration": "10 weeks",
+        "enrolled_users": 7000,
+        "rating": 4.5,
+        "keywords": [
+            "natural language processing",
+            "NLP",
+            "text analysis"
+        ],
+        "course_id": "126",
+        "link": "https://www.coursera.org/specializations/natural-language-processing"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-27.png",
+        "title": "UI/UX Design Essentials",
+        "description": "Learn the essentials of user interface and user experience design.",
+        "duration": "6 weeks",
+        "enrolled_users": 8500,
+        "rating": 4.7,
+        "keywords": [
+            "UI/UX design",
+            "user interface",
+            "user experience design"
+        ],
+        "course_id": "127",
+        "link": "https://www.udemy.com/course/ui-ux-design-essentials/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-28.png",
+        "title": "Database Management with SQL",
+        "description": "Master SQL for efficient database management and querying.",
+        "duration": "8 weeks",
+        "enrolled_users": 6000,
+        "rating": 4.3,
+        "keywords": [
+            "SQL",
+            "database management",
+            "querying"
+        ],
+        "course_id": "128",
+        "link": "https://www.coursera.org/specializations/sql-database-management"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-29.png",
+        "title": "Angular Web Development",
+        "description": "Learn web development with the Angular framework for building dynamic web apps.",
+        "duration": "12 weeks",
+        "enrolled_users": 7500,
+        "rating": 4.6,
+        "keywords": [
+            "Angular",
+            "web development",
+            "dynamic web apps"
+        ],
+        "course_id": "129",
+        "link": "https://www.udemy.com/course/angular-web-development/"
+    },
+    {
+        "course_poster_image": "https://example.com/course-poster-30.png",
+        "title": "Big Data Analytics",
+        "description": "Explore big data analytics and its applications in various industries.",
+        "duration": "10 weeks",
+        "enrolled_users": 8000,
+        "rating": 4.4,
+        "keywords": [
+            "big data analytics",
+            "data analysis",
+            "industrial applications"
+        ],
+        "course_id": "130",
+        "link": "https://www.coursera.org/specializations/big-data-analytics"
+    }
+]
